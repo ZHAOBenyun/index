@@ -54,3 +54,29 @@ enable_darkmode: true # 启用暗色模式
 enable_navbar_social: true # 在导航栏显示社交链接
 enable_project_categories: true # 启用项目分类
 enable_medium_zoom: true # 启用图片缩放
+
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+  last_name: [Zhao]
+  first_name: [Benyun, B.]
+
+  style: apa
+  locale: en
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+  group_by: year
+  group_order: descending
