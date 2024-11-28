@@ -5,31 +5,38 @@
 title: blank # 网站标题保持空白,将使用全名
 first_name: Benyun
 middle_name: 
-last_name: Zhao
-email: benyun.zhao@link.cuhk.edu.hk  # 使用学校邮箱
+last_name: ZHAO
+email: byzhao@mae.cuhk.edu.hk
 description: > # 个人简介
-  PhD Candidate at CUHK, focusing on computer vision and robotics applications.
+  Ph.D. Candidate at CUHK USR Group, focusing on unmanned systems applications, 
+  image processing, and 3D scene understanding. Member of Hong Kong Centre for 
+  Logistics Robotics (HKCLR), supervised by Prof. Ben M. Chen.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: computer vision, robotics, unmanned systems, 3D reconstruction # 关键词
-lang: en # 语言设置
+keywords: unmanned systems, computer vision, robotics, 3D scene understanding, image processing
+lang: en
 
-url: https://ZhaoBenyun.github.io # GitHub Pages URL
-baseurl: /main-site # 子路径
+url: https://ZhaoBenyun.github.io
+baseurl: /main-site
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: ZhaoBenyun # GitHub用户名
-scholar_userid: qc6CJjYAAAAJ # Google Scholar ID
+github_username: ZhaoBenyun
+scholar_userid: # Google Scholar ID if available
+wechat_qr: Claude_ZBY
+
+contact_note: >
+  Contact via email or WeChat (微信): Claude_ZBY
+  Phone: (852) 67535779
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Benyun's Blog # 博客名称
-blog_description: Research notes and technical posts about computer vision and robotics
+blog_name: Benyun's Blog
+blog_description: Research notes and technical posts about unmanned systems and computer vision
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -49,18 +56,18 @@ collections:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_math: true # 启用数学公式
-enable_darkmode: true # 启用暗色模式
-enable_navbar_social: true # 在导航栏显示社交链接
-enable_project_categories: true # 启用项目分类
-enable_medium_zoom: true # 启用图片缩放
+enable_math: true
+enable_darkmode: true
+enable_navbar_social: true
+enable_project_categories: true
+enable_medium_zoom: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Zhao]
+  last_name: [ZHAO]
   first_name: [Benyun, B.]
 
   style: apa
