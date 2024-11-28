@@ -2,29 +2,71 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # 网站标题保持空白,将使用全名
+title: blank
 first_name: Benyun
-middle_name: 
+middle_name:
 last_name: ZHAO
 email: byzhao@mae.cuhk.edu.hk
-description: > # 个人简介
+description: >
   Ph.D. Candidate at CUHK USR Group, focusing on unmanned systems applications, 
   image processing, and 3D scene understanding. Member of Hong Kong Centre for 
   Logistics Robotics (HKCLR), supervised by Prof. Ben M. Chen.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with 
+  <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: unmanned systems, computer vision, robotics, 3D scene understanding, image processing
 lang: en
+icon: ⚛️
 
 url: https://ZhaoBenyun.github.io
 baseurl: /main-site
+last_updated: false
+impressum_path:
+back_to_top: true
+
+# -----------------------------------------------------------------------------
+# Theme
+# -----------------------------------------------------------------------------
+
+repo_theme_light: default
+repo_theme_dark: dark
+repo_trophies:
+  enabled: true
+  theme_light: flat
+  theme_dark: gitdimmed
+
+# -----------------------------------------------------------------------------
+# RSS Feed
+# -----------------------------------------------------------------------------
+
+rss_icon: true
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+
+navbar_fixed: true
+footer_fixed: true
+search_enabled: true
+socials_in_search: true
+bib_search: true
+max_width: 930px
+
+# -----------------------------------------------------------------------------
+# Open Graph & Schema.org
+# -----------------------------------------------------------------------------
+
+serve_og_meta: false
+serve_schema_org: false
+og_image:
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
 github_username: ZhaoBenyun
-scholar_userid: # Google Scholar ID if available
+scholar_userid:
 wechat_qr: Claude_ZBY
 
 contact_note: >
@@ -37,6 +79,14 @@ contact_note: >
 
 blog_name: Benyun's Blog
 blog_description: Research notes and technical posts about unmanned systems and computer vision
+permalink: /blog/:year/:title/
+
+pagination:
+  enabled: true
+
+related_blog_posts:
+  enabled: true
+  max_related: 5
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -52,38 +102,94 @@ collections:
     output: true
     permalink: /:collection/:title/
 
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: true
+  scrollable: true
+  limit: 3
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
+
+include: ["_pages"]
+exclude:
+  - bin/
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
+  - Dockerfile
+  - docker-compose.yml
+  - docker-compose-slim.yml
+  - FAQ.md
+  - Gemfile
+  - Gemfile.lock
+  - INSTALL.md
+  - LICENSE
+  - lighthouse_results/
+  - package.json
+  - package-lock.json
+  - readme_preview/
+  - vendor
+
+plugins:
+  - jekyll-archives
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-scholar
+  - jekyll-sitemap
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
+
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
+enable_google_analytics: false
+enable_cronitor_analytics: false
+enable_google_verification: false
+enable_bing_verification: false
+enable_masonry: true
 enable_math: true
+enable_tooltips: false
 enable_darkmode: true
 enable_navbar_social: true
 enable_project_categories: true
 enable_medium_zoom: true
+enable_progressbar: true
+enable_video_embedding: false
 
 # -----------------------------------------------------------------------------
-# Jekyll Scholar
+# Library versions
 # -----------------------------------------------------------------------------
 
-scholar:
-  last_name: [ZHAO]
-  first_name: [Benyun, B.]
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-  group_by: year
-  group_order: descending
+third_party_libraries:
+  bootstrap-table:
+    version: 1.22.4
+  chartjs:
+    version: 4.4.1
+  jquery:
+    version: 3.6.0
+  mathjax:
+    version: 3.2.2
