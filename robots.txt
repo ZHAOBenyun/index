@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://ZHAOBenyun.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://ZhaoBenyun.github.io/main-site/sitemap.xml
