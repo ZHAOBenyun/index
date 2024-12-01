@@ -171,13 +171,13 @@ enable_cronitor_analytics: false
 enable_google_verification: false
 enable_bing_verification: false
 enable_masonry: true
-enable_math: true
+enable_math: false
 enable_tooltips: false
 enable_darkmode: true
 enable_navbar_social: true
 enable_project_categories: true
 enable_medium_zoom: true
-enable_progressbar: true
+enable_progressbar: false
 enable_video_embedding: false
 
 # -----------------------------------------------------------------------------
@@ -203,3 +203,33 @@ third_party_libraries:
     version: 3.2.2
     url:
       js: https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+    compress:
+      warnings: false
+      collapse_vars: false
+    mangle: false
+  compress_css: false
+  compress_javascript: false
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# 放宽 Jekyll 编译设置
+strict_front_matter: false
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
+
+# 简化构建过程
+incremental: true
+verbose: true
+profile: false
+
+# 放宽插件限制
+safe: false
+whitelist: []
