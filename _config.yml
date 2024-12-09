@@ -20,7 +20,7 @@ lang: en
 icon: ⚛️
 
 url: https://ZhaoBenyun.github.io
-baseurl: /main-site
+baseurl: /index
 last_updated: false
 impressum_path:
 back_to_top: true
