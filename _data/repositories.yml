@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ZHAOBenyun
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - ZHAOBenyun/main-site
+  - ZHAOBenyun/index
+  - ZHAOBenyun/CUBIT
+  - ZHAOBenyun/yolov8
+  - ZHAOBenyun/T-Mech2024
