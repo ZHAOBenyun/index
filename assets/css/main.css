@@ -57627,4 +57627,51 @@ readers do not read off random characters that represent icons */
   margin-right: 0.5rem;
 }
 
+.publications .bibliography {
+  margin-bottom: 50px;
+}
+.publications .bibliography li {
+  margin: 10px 0;
+  position: relative;
+}
+.publications .bibliography li .abbr {
+  height: 100%;
+  margin-bottom: 0;
+}
+.publications .bibliography li .abbr abbr {
+  display: inline-block;
+  background-color: var(--global-theme-color);
+  padding: 4px 8px;
+  border-radius: 3px;
+  color: white;
+  font-size: 0.9rem;
+}
+.publications .bibliography li .title {
+  font-weight: bolder;
+}
+.publications .bibliography li .author {
+  font-style: italic;
+}
+.publications .bibliography li .links {
+  margin-top: 0.5rem;
+}
+.publications .bibliography li .links a {
+  margin-right: 0.5rem;
+  border: 1px solid var(--global-theme-color);
+  padding: 2px 5px;
+  border-radius: 3px;
+  color: var(--global-theme-color);
+}
+.publications .bibliography li .links a:hover {
+  color: white;
+  background-color: var(--global-theme-color);
+}
+
+.visitor-map {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
 /*# sourceMappingURL=main.css.map */
