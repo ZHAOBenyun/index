@@ -20,7 +20,7 @@ lang: en
 icon: ⚛️
 
 url: https://ZhaoBenyun.github.io
-baseurl: /index
+baseurl: "/index"
 last_updated: false
 impressum_path:
 back_to_top: true
@@ -71,8 +71,7 @@ scholar_userid: your_google_scholar_id
 wechat_qr: Claude_ZBY
 
 contact_note: >
-  Contact via email or WeChat (微信): Claude_ZBY
-  Phone: (852) 67535779
+  Contact via email
 
 # -----------------------------------------------------------------------------
 # Blog
