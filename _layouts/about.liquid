@@ -55,7 +55,37 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
-    
+    <!-- Publications -->
+    <h2>publications</h2>
+    <div class="publications">
+      <h3 class="year">2024</h3>
+      <ol class="bibliography">
+        <li>
+          <div class="row">
+            <div class="col-sm-2 abbr">
+              <abbr class="badge">CVPR</abbr>
+            </div>
+            <div id="groundhog" class="col-sm-8">
+              <div class="title">GROUNDHOG: Grounding Large Language Models to Holistic Segmentation</div>
+              <div class="author">Yichi Zhang, Ziqiao Ma, Xiaofeng Gao, Suhaila Shakiah, Qiaozi Gao, and Joyce Chai</div>
+              <div class="periodical"><em>In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em>, Jun 2024.</div>
+              <div class="links">
+                <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+                <a href="#" class="btn btn-sm z-depth-0" role="button">PDF</a>
+                <a href="#" class="btn btn-sm z-depth-0" role="button">Code</a>
+                <a href="#" class="btn btn-sm z-depth-0" role="button">Website</a>
+              </div>
+            </div>
+          </div>
+        </li>
+      </ol>
+    </div>
+
+    <!-- Visitor Map -->
+    <h2>visitors</h2>
+    <div class="visitor-map" style="width: 200px; height: 200px; margin: 0 auto;">
+      <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1DzCfkA1F4yW7jaoyRuPPz6cSHEuqTGArcxwmwOrA1"></script>
+    </div>
 
     {% if site.newsletter.enabled and site.footer_fixed %}
       {% include scripts/newsletter.liquid center=true %}

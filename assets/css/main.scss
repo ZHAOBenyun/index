@@ -72,3 +72,62 @@ $max-content-width: {{ site.max_width }};
     }
   }
 }
+
+// Publications styling
+.publications {
+  .bibliography {
+    margin-bottom: 50px;
+    
+    li {
+      margin: 10px 0;
+      position: relative;
+
+      .abbr {
+        height: 100%;
+        margin-bottom: 0;
+        
+        abbr {
+          display: inline-block;
+          background-color: var(--global-theme-color);
+          padding: 4px 8px;
+          border-radius: 3px;
+          color: white;
+          font-size: 0.9rem;
+        }
+      }
+
+      .title {
+        font-weight: bolder;
+      }
+
+      .author {
+        font-style: italic;
+      }
+
+      .links {
+        margin-top: 0.5rem;
+        
+        a {
+          margin-right: 0.5rem;
+          border: 1px solid var(--global-theme-color);
+          padding: 2px 5px;
+          border-radius: 3px;
+          color: var(--global-theme-color);
+          
+          &:hover {
+            color: white;
+            background-color: var(--global-theme-color);
+          }
+        }
+      }
+    }
+  }
+}
+
+// Visitor Map styling
+.visitor-map {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
