@@ -7,3 +7,15 @@
 
 "Vision":
   color: "#009f36"
+
+TCST:
+  color: "#00369f"
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87
+
+TIE:
+  color: "#00369f"
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41
+
+ICRA:
+  color: "#00369f"
+  url: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra

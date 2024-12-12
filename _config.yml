@@ -156,7 +156,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
-  # - jekyll-scholar
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-twitter-plugin
@@ -247,3 +247,8 @@ scholar:
   group_order: ascending
   bibliography_list_tag: ul
   bibliography_item_tag: li
+
+# Publication features
+enable_publication_thumbnails: true
+enable_publication_badges: true
+enable_publication_search: true
