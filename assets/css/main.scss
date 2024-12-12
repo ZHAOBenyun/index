@@ -23,3 +23,52 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Review list styling
+.review-list {
+  list-style-type: none;
+  padding-left: 0;
+  
+  li {
+    margin-bottom: 0.5rem;
+    
+    strong {
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+// Academic service list styling
+.academic-service-list {
+  list-style-type: none;
+  padding-left: 0;
+  font-size: 1.1rem;
+  
+  li {
+    margin-bottom: 1rem;
+    
+    strong {
+      font-weight: 500;
+      &:after {
+        content: " ";
+      }
+    }
+  }
+}
+
+// Academic Services styling
+.academic-services {
+  padding-left: 20px;
+  margin-bottom: 2rem;
+  
+  li {
+    font-size: 1.1rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.6;
+
+    strong {
+      color: var(--global-theme-color);
+      margin-right: 0.5rem;
+    }
+  }
+}
