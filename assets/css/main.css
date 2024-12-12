@@ -57587,4 +57587,44 @@ readers do not read off random characters that represent icons */
   content: "\ff84";
 }
 
+.review-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+.review-list li {
+  margin-bottom: 0.5rem;
+}
+.review-list li strong {
+  color: var(--global-theme-color);
+}
+
+.academic-service-list {
+  list-style-type: none;
+  padding-left: 0;
+  font-size: 1.1rem;
+}
+.academic-service-list li {
+  margin-bottom: 1rem;
+}
+.academic-service-list li strong {
+  font-weight: 500;
+}
+.academic-service-list li strong:after {
+  content: " ";
+}
+
+.academic-services {
+  padding-left: 20px;
+  margin-bottom: 2rem;
+}
+.academic-services li {
+  font-size: 1.1rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+.academic-services li strong {
+  color: var(--global-theme-color);
+  margin-right: 0.5rem;
+}
+
 /*# sourceMappingURL=main.css.map */
