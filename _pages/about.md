@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Ph.D. Candidate at <a href='https://www.cuhk.edu.hk/english/index.html'>CUHK</a>. Member of <a href='http://www.mae.cuhk.edu.hk/~usr/'>USR Group</a> and <a href='https://www.hkclr.hk/'>HKCLR</a>
 
