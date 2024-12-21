@@ -18,67 +18,6 @@ pagination:
 
 <div class="post">
 
-<!-- Teaching Assistant Experience Section -->
-<div class="header-bar">
-  <h1>Teaching Experience</h1>
-</div>
-
-<div class="teaching-experience">
-  <h2>Current Teaching</h2>
-  <ul class="teaching-list">
-    <li>
-      <strong>MAEG4998 Final Year Project</strong> (2024-2025)<br>
-      Instructor: Prof. Ben M. Chen<br>
-      <em>Project: Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments</em>
-    </li>
-    <li>
-      <strong>MAEG4040 Mechatronic System</strong> (2024-2025)<br>
-      Instructor: Prof. Xin Ma
-    </li>
-    <li>
-      <strong>ESTR1006 Multivariable Calculus</strong> (2023-2024)<br>
-      Instructor: Prof. Dongkun Han
-    </li>
-  </ul>
-
-  <h2>Previous Teaching</h2>
-  <ul class="teaching-list">
-    <li>
-      <strong>MAEG5910 Master of Science Project</strong> (2023-2024)<br>
-      Instructor: Prof. Ben M. Chen<br>
-      <em>Project: Learning-Based Large-Scale 3D Reconstruction: A Comparison between Multi-View Stereo and Neural Radiance Field</em>
-    </li>
-    <li>
-      <strong>MAEG4040 Mechatronic System</strong> (2023-2024)<br>
-      Instructor: Prof. Xin Ma
-    </li>
-    <li>
-      <strong>MAEG5910 Master of Science Project</strong> (2022-2023)<br>
-      Instructor: Prof. Ben M. Chen<br>
-      <em>Project: Building Defects Detection based on YOLOv8</em>
-    </li>
-    <li>
-      <strong>MAEG4040 Final Year Project</strong> (2022-2023)<br>
-      Instructor: Prof. Ben M. Chen<br>
-      <em>Project: Building Defect Dataset Establishment and Real-time Defect Detection</em>
-    </li>
-    <li>
-      <strong>MAEG5910 Master of Science Project</strong> (2021-2022)<br>
-      Instructor: Prof. Ben M. Chen<br>
-      <em>Projects:</em>
-      <ul>
-        <li>Defect Images Generation based on Generative Adversarial Network</li>
-        <li>Concrete Cracks Detection based on Semantic Segmentation</li>
-      </ul>
-    </li>
-  </ul>
-</div>
-
-<div class="note">
-  <p><strong>Note:</strong> MAEG (Mechanical and Automation Engineering) - 机械与自动化工程系课程<br>
-  ESTR (ELITE Stream) - 工程学院精英班课程</p>
-</div>
-
 <hr>
 
 <!-- Original Blog Content -->
@@ -258,3 +197,65 @@ pagination:
 {% endif %}
 
 </div>
+
+<!-- Teaching Assistant Experience Section -->
+<div class="header-bar">
+  <h1>Teaching Experience</h1>
+</div>
+
+<div class="teaching-experience">
+  <h2>Current Teaching</h2>
+  <ul class="teaching-list">
+    <li>
+      <strong>MAEG4998 Final Year Project</strong> (2024-2025)<br>
+      Instructor: Prof. Ben M. Chen<br>
+      <em>Project: Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments</em>
+    </li>
+    <li>
+      <strong>MAEG4040 Mechatronic System</strong> (2024-2025)<br>
+      Instructor: Prof. Xin Ma
+    </li>
+    <li>
+      <strong>ESTR1006 Multivariable Calculus</strong> (2023-2024)<br>
+      Instructor: Prof. Dongkun Han
+    </li>
+  </ul>
+
+  <h2>Previous Teaching</h2>
+  <ul class="teaching-list">
+    <li>
+      <strong>MAEG5910 Master of Science Project</strong> (2023-2024)<br>
+      Instructor: Prof. Ben M. Chen<br>
+      <em>Project: Learning-Based Large-Scale 3D Reconstruction: A Comparison between Multi-View Stereo and Neural Radiance Field</em>
+    </li>
+    <li>
+      <strong>MAEG4040 Mechatronic System</strong> (2023-2024)<br>
+      Instructor: Prof. Xin Ma
+    </li>
+    <li>
+      <strong>MAEG5910 Master of Science Project</strong> (2022-2023)<br>
+      Instructor: Prof. Ben M. Chen<br>
+      <em>Project: Building Defects Detection based on YOLOv8</em>
+    </li>
+    <li>
+      <strong>MAEG4040 Final Year Project</strong> (2022-2023)<br>
+      Instructor: Prof. Ben M. Chen<br>
+      <em>Project: Building Defect Dataset Establishment and Real-time Defect Detection</em>
+    </li>
+    <li>
+      <strong>MAEG5910 Master of Science Project</strong> (2021-2022)<br>
+      Instructor: Prof. Ben M. Chen<br>
+      <em>Projects:</em>
+      <ul>
+        <li>Defect Images Generation based on Generative Adversarial Network</li>
+        <li>Concrete Cracks Detection based on Semantic Segmentation</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+<div class="note">
+  <p><strong>Note:</strong> MAEG (Mechanical and Automation Engineering) - 机械与自动化工程系课程<br>
+  ESTR (ELITE Stream) - 工程学院精英班课程</p>
+</div>
+
