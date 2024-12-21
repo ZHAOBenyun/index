@@ -256,6 +256,6 @@ pagination:
 
 <div class="note">
   <p><strong>Note:</strong> MAEG (Mechanical and Automation Engineering) - 机械与自动化工程系课程<br>
-  ESTR (ELITE Stream) - 工程学院精英班课程</p>
+  ESTR (ELITE Stream) - 工程学院精英班课程 </p>
 </div>
 
