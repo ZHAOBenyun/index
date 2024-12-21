@@ -8,10 +8,6 @@ categories: research-papers
 featured: true
 ---
 
-{% tabs defect-detection %}
-
-{% tab defect-detection Overview %}
-
 ## Overview
 
 We introduce CUBIT-Det, a comprehensive high-resolution defect detection dataset containing over 5,500 images captured under various real-world scenarios. This dataset aims to advance automated infrastructure inspection using unmanned systems and deep learning approaches.
@@ -23,10 +19,6 @@ We introduce CUBIT-Det, a comprehensive high-resolution defect detection dataset
 - Extensive benchmarking with 30+ detection methods
 - Validated through real-world building inspections
 
-{% endtab %}
-
-{% tab defect-detection Abstract %}
-
 ## Abstract
 
 Visual inspection of civil infrastructures has traditionally been a crucial yet labor-intensive task. In contrast, unmanned robots equipped with deep learning-based visual defect detection methods offer a more comprehensive and efficient solution compared to conventional manual inspection techniques. 
@@ -36,10 +28,6 @@ However, the full potential of deep learning in defect detection has yet to be f
 Distinguishing itself from existing datasets, CUBIT-Det encompasses a wide array of practical situations, backgrounds, and defect categories. We perform extensive benchmarking experiments on the dataset with nearly 30 cutting-edge real-time detection methods, and analyze both the impact of the dataset's annotation methods and zero-shot transfer ability of it. 
 
 This effort lays a robust foundation for future advancements in defect detection solutions. Additionally, the practicality and effectiveness of CUBIT-Det are confirmed through thorough inspections of real-world buildings. Finally, we detail the features and acknowledge the limitations of our dataset, thereby highlighting significant opportunities for future research.
-
-{% endtab %}
-
-{% tab defect-detection Citation %}
 
 ## Citation
 
@@ -60,10 +48,6 @@ If you use our CUBIT dataset in your research, please download it at [https://gi
 }
 ```
 
-{% endtab %}
-
-{% tab defect-detection Authors %}
-
 ## Authors
 
 - **Benyun Zhao** - The Chinese University of Hong Kong
@@ -75,10 +59,6 @@ If you use our CUBIT dataset in your research, please download it at [https://gi
 - Guang Li
 - Xi Chen
 - **Ben M. Chen** - The Chinese University of Hong Kong
-
-{% endtab %}
-
-{% endtabs %}
 
 ## Keywords
 - Infrastructure Inspection
