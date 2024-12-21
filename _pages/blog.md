@@ -208,16 +208,16 @@ pagination:
   <ul class="teaching-list">
     <li>
       <strong>MAEG4998 Final Year Project</strong> (2024-2025)<br>
-      Instructor: Prof. Ben M. Chen<br>
+      Instructor: <a href="https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/">Prof. Ben M. Chen</a><br>
       <em>Project: Deep Learning-Based Detection and Segmentation of Building Façade Defects and Components: From Dataset Establishment to Drone Experiments</em>
     </li>
     <li>
       <strong>MAEG4040 Mechatronic System</strong> (2024-2025)<br>
-      Instructor: Prof. Xin Ma
+      Instructor: <a href="https://www4.mae.cuhk.edu.hk/peoples/ma-xin/">Prof. Xin Ma</a>
     </li>
     <li>
       <strong>ESTR1006 Multivariable Calculus</strong> (2023-2024)<br>
-      Instructor: Prof. Dongkun Han
+      Instructor: <a href="https://www.math.cuhk.edu.hk/people/academic-staff">Prof. Dongkun Han</a>
     </li>
   </ul>
 
@@ -225,26 +225,26 @@ pagination:
   <ul class="teaching-list">
     <li>
       <strong>MAEG5910 Master of Science Project</strong> (2023-2024)<br>
-      Instructor: Prof. Ben M. Chen<br>
+      Instructor: <a href="https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/">Prof. Ben M. Chen</a><br>
       <em>Project: Learning-Based Large-Scale 3D Reconstruction: A Comparison between Multi-View Stereo and Neural Radiance Field</em>
     </li>
     <li>
       <strong>MAEG4040 Mechatronic System</strong> (2023-2024)<br>
-      Instructor: Prof. Xin Ma
+      Instructor: <a href="https://www4.mae.cuhk.edu.hk/peoples/ma-xin/">Prof. Xin Ma</a>
     </li>
     <li>
       <strong>MAEG5910 Master of Science Project</strong> (2022-2023)<br>
-      Instructor: Prof. Ben M. Chen<br>
+      Instructor: <a href="https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/">Prof. Ben M. Chen</a><br>
       <em>Project: Building Defects Detection based on YOLOv8</em>
     </li>
     <li>
       <strong>MAEG4040 Final Year Project</strong> (2022-2023)<br>
-      Instructor: Prof. Ben M. Chen<br>
+      Instructor: <a href="https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/">Prof. Ben M. Chen</a><br>
       <em>Project: Building Defect Dataset Establishment and Real-time Defect Detection</em>
     </li>
     <li>
       <strong>MAEG5910 Master of Science Project</strong> (2021-2022)<br>
-      Instructor: Prof. Ben M. Chen<br>
+      Instructor: <a href="https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/">Prof. Ben M. Chen</a><br>
       <em>Projects:</em>
       <ul>
         <li>Defect Images Generation based on Generative Adversarial Network</li>
