@@ -77,8 +77,8 @@ contact_note: >
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Benyun's Blog
-blog_description: Research notes and technical posts about unmanned systems and computer vision
+blog_name: My Projects
+blog_description: A collection of research projects and technical work in robotics, computer vision and deep learning
 permalink: /blog/:year/:title/
 
 pagination:
