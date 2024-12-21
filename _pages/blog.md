@@ -20,6 +20,7 @@ pagination:
 
 <hr>
 
+
 <!-- Original Blog Content -->
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
@@ -196,9 +197,7 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div>
 
-<!-- Teaching Assistant Experience Section -->
 <div class="header-bar">
   <h1>Teaching Experience</h1>
 </div>
@@ -258,4 +257,9 @@ pagination:
   <p><strong>Note:</strong> MAEG (Mechanical and Automation Engineering) - 机械与自动化工程系课程<br>
   ESTR (ELITE Stream) - 工程学院精英班课程 </p>
 </div>
+
+</div>
+
+<!-- Teaching Assistant Experience Section -->
+
 
