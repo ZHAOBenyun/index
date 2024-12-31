@@ -9,27 +9,51 @@ nav_order: 3
 
 ## Education
 
-- **Ph.D. Student** (2023.09 - Present)  
-  Department of Mechanical and Automation Engineering  
-  The Chinese University of Hong Kong  
-  Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
+### <img src="assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong (香港中文大学) [2022.09 - Present]
+- Ph.D. in Mechanical and Automation Engineering
+- Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
+- Selected Coursework:
+  - Linear Systems Theory & Design (A/A)
+  - Micromachining & MEMS (A-/A)
+  - Design for Additive Manufacturing (A-/A)
+  - Advanced Robotics (B+/A)
 
-- **M.Eng.** (2020.09 - 2023.06)  
-  School of Mechanical Engineering  
-  Jiangnan University  
-  Supervisor: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo)
+### <img src="assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong (香港中文大学) [2020.09 - 2021.06]
+- M.S. in Mechanical and Automation Engineering
+- GPA: 3.675/4.000
+- Selected Coursework:
+  - Control & Industrial Automation (A/A)
+  - Machine Learning for Signal Processing (A/A)
+  - Robotics (A-/A)
+  - MEMS Technology & Applications (A-/A)
 
-- **B.Eng.** (2016.09 - 2020.06)  
-  School of Mechanical Engineering  
-  Jiangnan University
+### <img src="assets/brands/江苏海洋大学.png" height="50"> Jiangsu Ocean University (江苏海洋大学) [2016.09 - 2020.07]
+- B.Eng. in Mechanical Design, Manufacturing and Automation
+- GPA: 4.53/5.00 (Ranking: 3/204)
+
+## Awards
+
+- Chun Wo Innovation Student Awards 2022 ([Gold Award & Best Business Potential Award](https://www.cwisa.com/en/index.html))
+- YDC Dare To Change 2022-2023 ([Best Business Idea Award](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx))
+- Professor Charles K. Ko Student Creativity Award ([Champion](https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023))
+- 48th Geneva International Exhibition of Inventions ([Bronze Medal](https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/))
+
+## Academic Visits
+
+### <img src="assets/brands/南京理工.png" height="50"> Nanjing University of Science and Technology [2024.05]
+- Visiting Student in Control Science and Engineering
+- Supervisors: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
+
+### <img src="assets/brands/UCB.png" height="50"> University of California, Berkeley [2023.09]
+- Visiting Student in HiPeR Lab, Mechanical Engineering
+- Supervisor: [Prof. Mark W. Mueller](https://me.berkeley.edu/people/mark-w-mueller/)
+
+### <img src="assets/brands/pengcheng.png" height="50"> Pengcheng Laboratory [2023.07]
+- International Symposium on Cooperative Autonomous Systems
+- Chairpersons: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
+
 
 ## Research Experience
-
-### Visiting Experience
-- **Research Assistant** (2022.07 - 2023.06)  
-  Unmanned Systems Research Group  
-  The Chinese University of Hong Kong  
-  Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 
 ### Academic Projects
 - **Flight Systems and Control Lab** (2021.09 - 2022.06)  
