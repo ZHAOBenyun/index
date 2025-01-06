@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Sha Tin, N.T.</p>
-    <p>Hong Kong SAR, China</p>
+    
 
 news: true
 latest_posts: true
