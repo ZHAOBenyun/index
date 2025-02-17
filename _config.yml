@@ -252,6 +252,4 @@ scholar:
 enable_publication_thumbnails: true
 enable_publication_badges: true
 enable_publication_search: true
-
-# 网站字体设置
 font_family: 'Merriweather', 'Noto Serif SC', Georgia, serif
