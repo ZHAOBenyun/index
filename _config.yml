@@ -225,6 +225,8 @@ liquid:
   strict_filters: false
   strict_variables: false
 
+
+font-family: Segoe UI
 # 简化构建过程
 incremental: true
 verbose: true
