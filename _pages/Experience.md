@@ -2,14 +2,14 @@
 layout: page
 permalink: /experience/
 title: Experience
-description: My academic and professional experience
+description: My academic, professional and award-wining experience
 nav: true
 nav_order: 3
 ---
 
 ## Education
 
-### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong (香港中文大学) [2022.09 - Present]
+### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong [2022.09 - Present]
 - Ph.D. in Mechanical and Automation Engineering
 - Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 - Selected Coursework:
@@ -18,16 +18,17 @@ nav_order: 3
   - Design for Additive Manufacturing (A-/A)
   - Advanced Robotics (B+/A)
 
-### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong (香港中文大学) [2020.09 - 2021.06]
+### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong [2020.09 - 2021.06]
 - M.S. in Mechanical and Automation Engineering
 - GPA: 3.675/4.000
+- Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 - Selected Coursework:
   - Control & Industrial Automation (A/A)
   - Machine Learning for Signal Processing (A/A)
   - Robotics (A-/A)
   - MEMS Technology & Applications (A-/A)
 
-### <img src="../assets/brands/江苏海洋大学.png" height="50"> Jiangsu Ocean University (江苏海洋大学) [2016.09 - 2020.07]
+### <img src="../assets/brands/江苏海洋大学.png" height="50"> Jiangsu Ocean University [2016.09 - 2020.07]
 - B.Eng. in Mechanical Design, Manufacturing and Automation
 - GPA: 4.53/5.00 (Ranking: 3/204)
 
