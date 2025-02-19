@@ -45,44 +45,38 @@ nav_order: 3
 
 
 ### Professional Experience
-
-### Research Positions
 #### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong 
 - Research Assistant in Mechanical and Automation Engineering
 - Duration: 2021.07 - 2022.07
 - Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
-  *Focus: Unmanned system based computer vision tasks*
+- Focus: Unmanned system based computer vision tasks*
 
-### Industry Experience
-- **Mechanical Engineer** (2019.10 - 2019.11)  
-  Luoyang YTO Group Corporation  
-  *Focus: Agricultural machinery design and testing*
+#### <img src="../assets/brands/CUHK.png" height="50">  Luoyang YTO Group Corporation  
+- Mechanical Engineer  
+- Duration: 2019.10 - 2019.11
+- Focus: Agricultural machinery design and testing
 
+#### <img src="../assets/brands/CUHK.png" height="50">  Jinling Branch of Sinopec  
 - **Mechanical Engineer** (2016.06 - 2016.08, 2017.06 - 2017.08)  
-  Jinling Branch of Sinopec  
-  *Focus: Equipment maintenance and optimization*
+- Duration: 2016.06 - 2016.08, 2017.06 - 2017.08
+- Focus: Equipment maintenance and optimization
 
 
 ### Awards & Honors
-
 #### Postgraduate Awards
-- **Chun Wo Innovation Student Awards** 
-  [Gold Award & Best Business Potential Award](https://www.cwisa.com/en/index.html), Hong Kong, 2023
-- **YDC Dare To Change Business Pitch Competition**
-  [Best Business Idea Award](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx), Hong Kong, 2023
-- **Professor Charles K. Ko Student Creativity Award**
-  [Champion](https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023), Hong Kong, 2023
-- **48th Geneva International Exhibition of Inventions**
-  [Bronze Medal](https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/), Geneva, 2023
-- Postgraduate Scholarship, The Chinese University of Hong Kong, 2022-2026
+- [**Gold Award & Best Business Potential Award**](https://www.cwisa.com/en/index.html), Chun Wo Innovation Student Awards, Hong Kong, 2023
+- [**Best Business Idea Award**](https://daretochange.ydc.org.hk/en/showcase-urbannet.aspx), YDC Dare To Change Business Pitch Competition, Hong Kong, 2023
+- [**Champion**](https://www.orkts.cuhk.edu.hk/en/news-events/announcements/3735-event-highlight-professor-charles-k-kao-student-creativity-awards-pckksca-prize-presentation-ceremony-1-june-2023), Professor Charles K. Ko Student Creativity Award, Hong Kong, 2023
+- [**Bronze Medal**](https://ifia.com/the-48th-international-exhibition-of-inventions-in-geneva-was-held-with-success/), 48th Geneva International Exhibition of Inventions, Geneva, 2023
+- **Postgraduate Scholarship**, The Chinese University of Hong Kong, 2022-2026
 
 
 #### Undergraduate Awards
-- Outstanding Undergraduate, Jiangsu Ocean University, 2020
-- First Class Annual Scholarship, Jiangsu Ocean University, 2017; 2018; 2020
-- Competition-based Individual Scholarship, Jiangsu Ocean University, 2019
-- Merit Student, Jiangsu Ocean University, 2019
-- First Class Annual Scholarship, Nanjing Tech University, 2019
-- Second Prize - China RoboWork 2019 Small Quadrotor Project, Shaoguan, 2019
-- Champion - Mechanical Manufacturing Competition Solar Power Car Project, Lianyun Gang, 2018
+- **Outstanding Undergraduate**, Jiangsu Ocean University, 2020
+- **First Class Annual Scholarship**, Jiangsu Ocean University, 2017; 2018; 2020
+- **Competition-based Individual Scholarship**, Jiangsu Ocean University, 2019
+- **Merit Student**, Jiangsu Ocean University, 2019
+- **First Class Annual Scholarship**, Nanjing Tech University, 2019
+- **Second Prize**, China RoboWork 2019 Small Quadrotor Project, Shaoguan, 2019
+- **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyun Gang, 2018
 
