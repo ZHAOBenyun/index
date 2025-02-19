@@ -18,10 +18,11 @@ social: true
 ---
 
 ### Latest News
-- **[Jan 2025]** Our three papers are accpeted in [IROS 2024](https://https://2025.ieee-icra.org/) in Atlanta, USA.
+- **[Jan 2025]** Our three papers are accepted in [ICRA 2025](https://https://2025.ieee-icra.org/) in Atlanta, USA.
 - **[Nov 2024]** Will visit [HiPeR Lab](https://hiperlab.berkeley.edu/) at UC Berkeley again in summer 2025.
 - **[Oct 2024]** Our two papers are presented in [IROS 2024](https://iros2024-abudhabi.org/) in Abu Dhabi, UAE.
-- **[Mar 2024]** Our paper about CUBIT-Det dataset has been published in [Automation in Construction](https://www.sciencedirect.com/science/article/pii/S0926580524001419).
+- **[Mar 2024]** Our paper about [_CUBIT-Det_ dataset](https://www.sciencedirect.com/science/article/pii/S0926580524001419) has been published in Automation in Construction (AIC).
+- **[Jan 2024]** Our one paper is accepted in [ICRA 2024](https://2024.ieee-icra.org/) in Yokohama, Japan.
 - **[Oct 2023]** Our two papers are presented in [IROS 2023](https://ieee-iros.org/) in Detroit, USA.
 - **[Sep 2023]** Visiting [HiPeR Lab](https://hiperlab.berkeley.edu/) at UC Berkeley, working with [Prof. Mark Mueller](https://me.berkeley.edu/people/mark-mueller/).
 
