@@ -76,5 +76,5 @@ nav_order: 3
 - **Merit Student**, Jiangsu Ocean University, 2019
 - **First Class Annual Scholarship**, Nanjing Tech University, 2019
 - **Second Prize**, China RoboWork 2019 Small Quadrotor Project, Shaoguan, 2019
-- **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyun Gang, 2018
+- **Champion**, Mechanical Manufacturing Competition Solar Power Car Project, Lianyungang, 2018
 
