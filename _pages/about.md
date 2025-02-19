@@ -21,7 +21,7 @@ social: true
 - **[Jan 2025]** Our three papers are accpeted in ICRA2025 in Atlanta, USA.
 - **[Nov 2024]** Again! Will visit UC Berkeley as a visiting student in summer 2025.
 - **[Oct 2024]** Our two papers are presented in IROS2024 in Abu Dhabi, UAE.
-- **[March 2024]** Our paper about CUBIT-Det dataset has been published in [Automation in Construction](https://www.sciencedirect.com/science/article/pii/S0926580524001419).
+- **[Mar 2024]** Our paper about CUBIT-Det dataset has been published in [Automation in Construction](https://www.sciencedirect.com/science/article/pii/S0926580524001419).
 - **[Oct 2023]** Presented our two papers at [IROS 2023](https://ieee-iros.org/) in Detroit, USA.
 - **[Sep 2023]** Visiting [HiPeR Lab](https://hiperlab.berkeley.edu/) at UC Berkeley, working with [Prof. Mark Mueller](https://me.berkeley.edu/people/mark-mueller/).
 - **[Jun 2023]** Won CHAMPION at [2023 Professor Charles K. Kao Student Creativity Awards](https://www4.mae.cuhk.edu.hk/newsnawards/professor-charles-k-kao-student-creativity-awards-2023/).
