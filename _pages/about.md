@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate at <a href='https://www.cuhk.edu.hk/english/index.html
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self.jpg
   image_circular: false
   more_info: >
     

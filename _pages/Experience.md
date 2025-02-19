@@ -49,7 +49,7 @@ nav_order: 3
 - Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 - Focus: Unmanned system based computer vision tasks
 
-##### <img src="../assets/brands/yto.png" height="30">  Luoyang YTO Group Corporation  
+##### <img src="../assets/brands/yto.png" height="50">  Luoyang YTO Group Corporation  
 - Mechanical Engineer  
 - Duration: 2019.10 - 2019.11
 - Focus: Agricultural machinery design and testing
