@@ -30,7 +30,7 @@ Click here for my full [resume](https://drive.google.com/file/d/1GDiKjFEzTa3S2a2
 
 ## Education
 
-### <img src="assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong (香港中文大学) [2022.09 - Present]
+### <img src="assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong  [2022.09 - Present]
 - Ph.D. in Mechanical and Automation Engineering
 - Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 - Selected Coursework:
@@ -39,7 +39,7 @@ Click here for my full [resume](https://drive.google.com/file/d/1GDiKjFEzTa3S2a2
   - Design for Additive Manufacturing (A-/A)
   - Advanced Robotics (B+/A)
 
-### <img src="assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong (香港中文大学) [2020.09 - 2021.06]
+### <img src="assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong  [2020.09 - 2021.06]
 - M.S. in Mechanical and Automation Engineering
 - GPA: 3.675/4.000
 - Selected Coursework:
@@ -48,7 +48,7 @@ Click here for my full [resume](https://drive.google.com/file/d/1GDiKjFEzTa3S2a2
   - Robotics (A-/A)
   - MEMS Technology & Applications (A-/A)
 
-### <img src="assets/brands/江苏海洋大学.png" height="50"> Jiangsu Ocean University (江苏海洋大学) [2016.09 - 2020.07]
+### <img src="assets/brands/JOU.png" height="50"> Jiangsu Ocean University  [2016.09 - 2020.07]
 - B.Eng. in Mechanical Design, Manufacturing and Automation
 - GPA: 4.53/5.00 (Ranking: 3/204)
 
@@ -61,7 +61,7 @@ Click here for my full [resume](https://drive.google.com/file/d/1GDiKjFEzTa3S2a2
 
 ## Academic Visits
 
-### <img src="assets/brands/南京理工.png" height="50"> Nanjing University of Science and Technology [2024.05]
+### <img src="assets/brands/NJUST.png" height="50"> Nanjing University of Science and Technology [2024.05]
 - Visiting Student in Control Science and Engineering
 - Supervisors: [Prof. Zhenbo Song](https://www.researchgate.net/profile/Song-Zhenbo) and [Prof. Jianfeng Lu](http://202.119.85.163/open/TutorInfo.aspx?dsbh=Xn3GKidYcoyr!Qa1YK4RAQ==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=)
 
