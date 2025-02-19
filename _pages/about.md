@@ -8,7 +8,7 @@ profile:
   align: right
   image: self.jpg
   image_circular: false
-  more_info: > @ Nevada desert, Las Vegas
+  more_info: > Nevada desert, Las Vegas
     
 
 news: true
