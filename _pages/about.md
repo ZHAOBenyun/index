@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. Candidate at <a href='https://www.cuhk.edu.hk/english/index.html'>CUHK, Dept. of MAE</a>. Member of <a href='http://www.mae.cuhk.edu.hk/~usr/'>USR Group</a> and <a href='https://www.hkclr.hk/'>HKCLR</a>
+subtitle: Ph.D. Candidate @ <a href='https://www4.mae.cuhk.edu.hk/message-from-department-chairman/'>Dept. of MAE, CUHK</a>. Member of the <a href='http://www.mae.cuhk.edu.hk/~usr/'>USR Group</a> and <a href='https://www.hkclr.hk/'>HKCLR</a>
 
 profile:
   align: right
