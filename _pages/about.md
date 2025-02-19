@@ -8,7 +8,7 @@ profile:
   align: right
   image: self.jpg
   image_circular: false
-  more_info: >
+  more_info: > Nevada desert
     
 
 news: true
