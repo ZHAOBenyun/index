@@ -14,12 +14,11 @@ nav_order: 3
 - Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 
 
-##### <img src="../assets/brands/CUHK.png" height="50"> <img src="../assets/brands/hkclr.png" height="50">The Chinese University of Hong Kong, Hong Kong Centre for Logistics Robotics
+##### <img src="../assets/brands/CUHK.png" height="50">The Chinese University of Hong Kong  <img src="../assets/brands/hkclr.png" height="50">Hong Kong Centre for Logistics Robotics
 - Research Assistant 
 - Duration: 2021.07 - 2022.07
 - Supervisor: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/)
 - Centre Director: [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)
-- Focus: Unmanned system based computer vision tasks
 
 ##### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong 
 - M.S. in Mechanical and Automation Engineering
