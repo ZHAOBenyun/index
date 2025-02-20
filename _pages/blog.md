@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /Project/
-title: Project&Teaching
+title: Presentation
 nav: true
 nav_order: 4
 pagination:
