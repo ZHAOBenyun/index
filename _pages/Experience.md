@@ -2,12 +2,12 @@
 layout: page
 permalink: /experience/
 title: Experience
-description: My academic, professional and award-wining experience
+description: My academic, teaching and award-wining experience
 nav: true
 nav_order: 3
 ---
 
-### Academic Experience
+### Academic Education
 ##### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong 
 - Ph.D. in Mechanical and Automation Engineering
 - Duration: 2022.09 - now 
@@ -51,6 +51,10 @@ nav_order: 3
 - Visiting Student in International Symposium on Cooperative Autonomous Systems
 - Duration: 2023.07 - 2023.07
 - Chairpersons: [Prof. Ben M. Chen](https://www4.mae.cuhk.edu.hk/peoples/chen-benmei/), [Prof. Jie Chen](https://www.tongji.edu.cn/info/1136/21221.htm) and [Prof. Hugh Liu](https://www.flight.utias.utoronto.ca/fsc/index.php/team)
+
+
+### Academic Visiting
+##### <img src="../assets/brands/CUHK.png" height="50"> The Chinese University of Hong Kong 
 
 
 ### Awards & Honors
